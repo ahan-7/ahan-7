@@ -78,7 +78,7 @@
 
 <a href="https://github.com/ahan-7"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/ahan-ghosh-28246b308/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" /></a>
-<a href="ahanghosh72@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Email" /></a>
+<a href="mailto:ahanghosh72@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Email" /></a>
 
 </div>
 
