@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner - Purple Tech Workspace -->
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
-
-<br/>
 
 <!-- Animated Hello (hola, hello, bonjour...) -->
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500" alt="animated hello">
