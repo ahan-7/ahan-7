@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000" />
+<!-- Animated Header Banner - Purple Tech Workspace -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" width="1000" />
 
 <br/>
 
-<!-- Animated Hello -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="animated hello">
+<!-- Animated Hello (hola, hello, bonjour...) -->
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500" alt="animated hello">
 
 <br/><br/>
 
