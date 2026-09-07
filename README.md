@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+ahan-7;%F0%9F%92%BB+Software+Engineer+%7C+Code+Enthusiast;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
