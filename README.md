@@ -1,16 +1,3 @@
-<div align="center">
-
-
-<!-- Animated Hello (hola, hello, bonjour...) -->
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="500" alt="animated hello">
-
-<br/><br/>
-
-
-</div>
-
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> &nbsp; About Me
 
