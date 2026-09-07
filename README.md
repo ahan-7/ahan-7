@@ -71,25 +71,13 @@
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-
-
-<br/>
-
-
-<br/>
-
-<!-- Animated Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" /> &nbsp; Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/ahan-7"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/ahan-7"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" alt="LinkedIn" /></a>
-<a href="https://twitter.com/ahan_7"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" alt="Twitter" /></a>
-<a href="https://instagram.com/ahan_7"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" alt="Instagram" /></a>
-<a href="mailto:ahan@example.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/ahan-ghosh-28246b308/"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" alt="LinkedIn" /></a>
+<a href="mailto:ahanghosh72@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Email" /></a>
 
 </div>
 
