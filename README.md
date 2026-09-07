@@ -28,7 +28,8 @@
 
 🎯 Goal: **Contributing to Open Source & Building Impactful Software**
 
-📫 Reach me at: **[GitHub](https://github.com/ahan-7)**
+📫 Reach me at: **[ahanghosh72@gmail.com](mailto:ahanghosh72@gmail.com)**
+
 
 <br/><br/>
 
