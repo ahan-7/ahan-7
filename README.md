@@ -6,14 +6,6 @@
      .github/workflows/update-profile-art.yml
      ======================================================= -->
 
-<h3><code>ahan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Ahan Ghosh — Live Animated GitHub Contribution Heatmap" />
-
-<br><br>
-
-<h3><code>ahan@github ~ $ whoami</code></h3>
-
 <table>
   <tr>
     <td valign="top">
