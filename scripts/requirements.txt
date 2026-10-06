@@ -1,0 +1,8 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+# portrait-only (run locally when updating photo):
+pillow>=10.0.0
+numpy
+opencv-python
+rembg
+onnxruntime

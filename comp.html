@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahan Ghosh (@ahan-7) — Profile README Live Preview</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card-bg: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    .preview-header {
+      width: 100%;
+      max-width: 900px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 24px;
+      margin-bottom: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      background: rgba(56, 139, 253, 0.15);
+      color: var(--accent);
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .reload-btn {
+      background: #238636;
+      color: #ffffff;
+      border: 1px solid rgba(240, 246, 252, 0.1);
+      padding: 7px 16px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .reload-btn:hover {
+      background: #2ea043;
+    }
+    .readme-container {
+      width: 100%;
+      max-width: 900px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 40px 20px;
+      text-align: center;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+    }
+    h3 {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 18px;
+      font-weight: 600;
+      color: #e6edf3;
+      margin: 18px 0 12px 0;
+    }
+    h3 code {
+      background: rgba(110, 118, 129, 0.15);
+      padding: 4px 10px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+    }
+    .svg-row {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin: 10px 0;
+    }
+    table {
+      margin: 0 auto;
+      border-collapse: separate;
+      border-spacing: 12px 0;
+    }
+    td {
+      padding: 0;
+      vertical-align: top;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px;
+    }
+    .links-bar {
+      margin-top: 15px;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .tagline {
+      font-size: 15px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="preview-header">
+    <div>
+      <span class="badge">Live Local Preview</span>
+      <h2 style="font-size: 18px; margin-top: 6px; color: #fff;">github.com/ahan-7 Profile README</h2>
+    </div>
+    <button class="reload-btn" onclick="location.reload()">Replay Animations ⟳</button>
+  </div>
+
+  <div class="readme-container">
+    
+    <h3><code>ahan@github ~ $ ./contributions.sh</code></h3>
+    <div style="display: flex; justify-content: center; margin: 12px 0;">
+      <img src="./contrib-heatmap.svg" width="860" alt="Contribution Graph" />
+    </div>
+
+    <br><br>
+
+    <h3><code>ahan@github ~ $ whoami</code></h3>
+    <table>
+      <tr>
+        <td valign="top">
+          <img src="./ahan-ascii.svg" width="420" alt="ASCII Portrait" />
+        </td>
+        <td valign="top">
+          <img src="./info-card.svg" width="420" alt="Info Card" />
+        </td>
+      </tr>
+    </table>
+
+    <br><br>
+
+    <h3><code>ahan@github ~ $ ./stats.sh</code></h3>
+    <div style="display: flex; justify-content: center; margin: 12px 0;">
+      <img src="./stats.svg" width="860" alt="Streak and Stats" />
+    </div>
+
+    <br><br>
+
+    <h3><code>ahan@github ~ $ ./links.sh</code></h3>
+    <p class="tagline"><b>ECE Undergrad @ AGEMC &nbsp;·&nbsp; Full-Stack &amp; Systems Developer &nbsp;·&nbsp; Open Source Enthusiast</b></p>
+    
+    <div class="links-bar">
+      <a href="https://www.linkedin.com/in/ahan-ghosh-28246b308/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-ahan--ghosh--28246b308-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://github.com/ahan-7" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-ahan--7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="mailto:ahanghosh72@gmail.com">
+        <img src="https://img.shields.io/badge/Email-ahanghosh72%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </div>
+
+  </div>
+
+</body>
+</html>

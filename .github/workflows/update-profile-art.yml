@@ -1,0 +1,50 @@
+name: Update profile art
+
+# Refreshes the contribution graph + stats card SVGs daily from real data.
+# Runs daily, plus whenever you push to main, plus on-demand (workflow_dispatch).
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC daily
+  workflow_dispatch: {}
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests==2.32.3 beautifulsoup4==4.12.3
+
+      - name: Scrape live contribution data (no auth/token required)
+        env:
+          GH_PROFILE_USER: ahan-7
+        run: python scripts/fetch_contributions.py
+
+      - name: Render animated contribution heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Render live streak & stats SVG
+        run: python scripts/render_stats_svg.py
+
+      - name: Render neofetch info card SVG
+        run: python scripts/make_info_card.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution graph [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg info-card.svg"
