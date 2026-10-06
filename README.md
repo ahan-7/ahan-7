@@ -6,16 +6,7 @@
      .github/workflows/update-profile-art.yml
      ======================================================= -->
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./ahan-ascii.svg" width="420" alt="Ahan Ghosh — Monochrome Self-Typing ASCII Portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="420" alt="Ahan Ghosh — Neofetch System Information Card" />
-    </td>
-  </tr>
-</table>
+
 
 
 <img src="./stats.svg" width="860" alt="Ahan Ghosh — Animated GitHub Streaks and Activity Metrics" />
