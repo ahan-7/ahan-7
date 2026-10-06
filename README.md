@@ -17,15 +17,11 @@
   </tr>
 </table>
 
-<br><br>
-
-<h3><code>ahan@github ~ $ ./stats.sh</code></h3>
 
 <img src="./stats.svg" width="860" alt="Ahan Ghosh — Animated GitHub Streaks and Activity Metrics" />
 
 <br><br>
 
-<h3><code>ahan@github ~ $ ./links.sh</code></h3>
 
 <p><b>ECE Undergrad @ AGEMC &nbsp;·&nbsp; Full-Stack &amp; Systems Developer &nbsp;·&nbsp; Open Source Enthusiast</b></p>
 
